@@ -1,0 +1,6 @@
+shipment_type,shipment_date,status
+Inbound,2026-06-01,Delivered
+Inbound,2026-06-02,Delivered
+Outbound,2026-06-03,In Transit
+Outbound,2026-06-03,Delayed
+Outbound,2026-06-04,Delivered

@@ -1,0 +1,6 @@
+customer_name,order_date,ship_date,quantity,status
+Amazon,2026-06-01,2026-06-02,25,Shipped
+Walmart,2026-06-01,2026-06-03,40,Shipped
+Target,2026-06-02,,15,Pending
+Best Buy,2026-06-02,2026-06-03,30,Shipped
+Costco,2026-06-03,,20,Pending

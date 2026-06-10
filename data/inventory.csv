@@ -1,0 +1,8 @@
+product_name,category,quantity,reorder_level,warehouse_location,last_updated
+Laptop,Electronics,120,50,A1,2026-06-01
+Monitor,Electronics,80,30,A2,2026-06-01
+Keyboard,Electronics,45,60,A3,2026-06-01
+Mouse,Electronics,200,50,A4,2026-06-01
+Printer,Electronics,25,40,A5,2026-06-01
+Tablet,Electronics,150,70,A6,2026-06-01
+Webcam,Electronics,35,50,A7,2026-06-01
